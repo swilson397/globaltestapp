@@ -11,6 +11,7 @@
 GlobalAppUtils.prototype = {
     initialize: function() {
 		// Making a change
+		var init = true;
     },
 
     type: 'GlobalAppUtils'
